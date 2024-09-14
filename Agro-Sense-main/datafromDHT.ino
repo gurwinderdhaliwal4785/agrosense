@@ -14,7 +14,7 @@
 #include <Adafruit_Sensor.h>
 //#include "arduino_secrets.h"
 ///////please enter your sensitive data in the Secret tab/arduino_secrets.h
-char ssid[] = "@prabh";  // your network SSID (name)
+char ssid[] = "@guri";  // your network SSID (name)
 char pass[] = "0987654321";  // your network password (use for WPA, or use as key for WEP)
 lIgWNjFVMYsfl7hyyEZptkeyHhbhKZllfTEbWWBclsZ
 char HOST_NAME[]="maker.ifttt.com";
